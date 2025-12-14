@@ -23,7 +23,7 @@ Todos os projetos abaixo foram **desenvolvidos para uso prático em operações 
 | Categoria | Ferramentas |
 |----------|-------------|
 | Automação & Orquestração | n8n · Zapier · Pluga · Integrações via API REST · Webhooks (Inbound / Outbound) · HTTP APIs · Arquitetura orientada a eventos |
-| CRM & Vendas | Pipedrive · PipeRun · Salesforce · Kommo CRM (amoCRM) · Ramper (Pipeline · Prospect · Marketing) |
+| CRM & Vendas | Pipedrive · PipeRun · Salesforce · Kommo CRM · Ramper (Pipeline · Prospect · Marketing) |
 | Prospecção & Enriquecimento | Apollo.io · Snov.io · Apify · Dify (Actors) |
 | Marketing & Comunicação | RD Station · Brevo · Lahar · Meeventos · Envio de e-mail via SMTP |
 | Canais de Comunicação | WhatsApp (Evolution API · Umbler Talks) · Telefonia (Twilio) · Voz IA (ElevenLabs) |
