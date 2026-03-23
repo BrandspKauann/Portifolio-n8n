@@ -16,7 +16,7 @@ Todos os projetos abaixo foram **desenvolvidos para uso prático em operações 
 * Estruturo **backends SaaS invisíveis**, prontos para produção
 
 ---
-## 🧰 Tecnologias, Ferramentas e Stack (Visão Organizada)
+## 🧰 Tecnologias, Ferramentas e Stack 
 
 
 | Categoria | Ferramentas |
