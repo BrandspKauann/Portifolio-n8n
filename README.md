@@ -18,7 +18,6 @@ Todos os projetos abaixo foram **desenvolvidos para uso prático em operações 
 ---
 ## 🧰 Tecnologias, Ferramentas e Stack (Visão Organizada)
 
-> Stack completo utilizado nos projetos, agora em **formato de planilha com agrupamentos claros**, mantendo leitura rápida e entendimento imediato.
 
 | Categoria | Ferramentas |
 |----------|-------------|
